@@ -5,6 +5,7 @@ User can use the terminal application to view, add, and update departments, role
 With the Employee Tracker terminal application user is allowed to view, add, and update all departments, roles, and employees.
 
 ## Demo
+https://drive.google.com/file/d/1NnXWHNNg4UICJmOCbtZYTMMfUKc5Y46j/view
 
 ## Installation
 1. Download the github repo into local computer, manipulate seeds.sql file in order to fit your management.
